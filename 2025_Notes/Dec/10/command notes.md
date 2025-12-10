@@ -1,5 +1,7 @@
 
+~~~shell
 history
+history | less    
 
   232  mkdir MD
   233  ls day* -l
@@ -17,8 +19,7 @@ history
   245  git commit -m "Make a new folder"
   246  git branch
   247  git push
-
-
+~~~
 
 
 ______
