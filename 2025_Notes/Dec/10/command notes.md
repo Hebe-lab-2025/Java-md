@@ -364,11 +364,9 @@ code path/to/file.md
 你会看到：
 
 ```text
-<<<<<<< HEAD
 远端版本内容
 =======
 本地版本内容
->>>>>>> your-commit-hash
 ```
 
 #### 2️⃣ 手动修改文件
